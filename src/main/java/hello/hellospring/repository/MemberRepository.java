@@ -1,3 +1,4 @@
+//데이터를 저장
 package hello.hellospring.repository;
 
 import hello.hellospring.domain.Member;
